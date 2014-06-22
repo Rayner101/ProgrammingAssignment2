@@ -1,3 +1,5 @@
+#Solution for the programming assignment 2
+
 # This function creates a list with a set of functions to speed calculations avoiding repetition.
 # get = returns the matrix
 # set = sets the value of the matrix
